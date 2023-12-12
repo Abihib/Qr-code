@@ -13,3 +13,8 @@ for i in range(3):
                      #embeded_image_path="pngegg.png",
                      eye_drawer=RoundedModuleDrawer())
     qr.save('vmeste30_' + str(i).rjust(0, '0') + '.png')
+
+
+
+
+
